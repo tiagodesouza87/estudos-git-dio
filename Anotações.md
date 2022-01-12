@@ -1,7 +1,7 @@
 #Gerar chave SSH para Github
 
 No git Bash:
- ssh-keygen -t ed25519 -C tiago.hsouza7@gmail.com
+ ssh-keygen -t ed25519 -C email
 
 Ler chave pública:
 cd /c/Users/3159021/.ssh (Linux: /home/usuario/.ssh)
