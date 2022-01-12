@@ -23,8 +23,8 @@ Salvar token na máquina
 Primeiros passos com git
 
 git init - Cria repositório
-git config --global user.email "tiago.hsouza7@gmail.com"
-git config --global user.name Tiago
+git config --global user.email "email"
+git config --global user.name nome
 
 git config --global –unset user.name
 
